@@ -552,7 +552,7 @@
     "folder": "python"
   },
   "MedQA_train_US": {
-    "file_name": "/kaggle/input/llmdata3/train.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/train.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -560,7 +560,7 @@
     }
   },  
   "MedQA_test_US": {
-    "file_name": "/kaggle/input/llmdata3/test.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/test.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -568,7 +568,7 @@
     }
   },
   "MedQA_dev_US": {
-    "file_name": "/kaggle/input/llmdata3/dev.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/dev.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -576,7 +576,7 @@
     }
   },
   "PubMedQA_train": {
-    "file_name": "/kaggle/input/llmdata3/ori_pqaa.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/ori_pqaa.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -584,7 +584,7 @@
     }
   },
   "PubMedQA_val": {
-    "file_name": "/kaggle/input/llmdata3/ori_pqau.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/ori_pqau.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
