@@ -576,7 +576,7 @@
     }
   },
   "PubMedQA_train": {
-    "file_name": "/kaggle/working/LLaMA-Factory/data/pqal_train.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/pqal_train_set.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
@@ -584,7 +584,7 @@
     }
   },
   "PubMedQA_val": {
-    "file_name": "/kaggle/working/LLaMA-Factory/data/pqal_test.json",
+    "file_name": "/kaggle/working/LLaMA-Factory/data/pqal_test_set.json",
     "columns": {
       "prompt": "instruction",
       "query": "input",
